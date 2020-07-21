@@ -1,0 +1,13 @@
+C:\Users\jonathanwilliamson\Source\Repos\SupermarketKata\SupermarketKata\SupermarketKata\obj\Debug\netcoreapp3.1\SupermarketKata.csprojAssemblyReference.cache
+C:\Users\jonathanwilliamson\Source\Repos\SupermarketKata\SupermarketKata\SupermarketKata\obj\Debug\netcoreapp3.1\SupermarketKata.AssemblyInfoInputs.cache
+C:\Users\jonathanwilliamson\Source\Repos\SupermarketKata\SupermarketKata\SupermarketKata\obj\Debug\netcoreapp3.1\SupermarketKata.AssemblyInfo.cs
+C:\Users\jonathanwilliamson\Source\Repos\SupermarketKata\SupermarketKata\SupermarketKata\obj\Debug\netcoreapp3.1\SupermarketKata.csproj.CoreCompileInputs.cache
+C:\Users\jonathanwilliamson\Source\Repos\SupermarketKata\SupermarketKata\SupermarketKata\bin\Debug\netcoreapp3.1\SupermarketKata.exe
+C:\Users\jonathanwilliamson\Source\Repos\SupermarketKata\SupermarketKata\SupermarketKata\bin\Debug\netcoreapp3.1\SupermarketKata.deps.json
+C:\Users\jonathanwilliamson\Source\Repos\SupermarketKata\SupermarketKata\SupermarketKata\bin\Debug\netcoreapp3.1\SupermarketKata.runtimeconfig.json
+C:\Users\jonathanwilliamson\Source\Repos\SupermarketKata\SupermarketKata\SupermarketKata\bin\Debug\netcoreapp3.1\SupermarketKata.runtimeconfig.dev.json
+C:\Users\jonathanwilliamson\Source\Repos\SupermarketKata\SupermarketKata\SupermarketKata\bin\Debug\netcoreapp3.1\SupermarketKata.dll
+C:\Users\jonathanwilliamson\Source\Repos\SupermarketKata\SupermarketKata\SupermarketKata\bin\Debug\netcoreapp3.1\SupermarketKata.pdb
+C:\Users\jonathanwilliamson\Source\Repos\SupermarketKata\SupermarketKata\SupermarketKata\obj\Debug\netcoreapp3.1\SupermarketKata.dll
+C:\Users\jonathanwilliamson\Source\Repos\SupermarketKata\SupermarketKata\SupermarketKata\obj\Debug\netcoreapp3.1\SupermarketKata.pdb
+C:\Users\jonathanwilliamson\Source\Repos\SupermarketKata\SupermarketKata\SupermarketKata\obj\Debug\netcoreapp3.1\SupermarketKata.genruntimeconfig.cache
